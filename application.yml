@@ -1,0 +1,7 @@
+telegram:
+  bot:
+    token:
+    username:
+binance:
+  api:
+    getPrice: https://api.binance.com/api/v3/avgPrice?symbol=BTCUSDT
